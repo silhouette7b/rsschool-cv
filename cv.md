@@ -10,6 +10,6 @@ function squareDigits(num){
   }).join(''))
 }
 ```
-6. https://silhouette7b.github.io/course-work/
+6. My 1st Coursework: https://silhouette7b.github.io/course-work/
 7. Studying in tech college right now (web-development)
 8. C1
